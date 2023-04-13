@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ggroony, a Software Development Student at Champlain College
 - 👀 I’m interested in making unique projects that expand my knowledge and that are useful to me on a daily basis.
-- 🌱 I’m currently learning Python, C++, HTML & CSS. However, I'd like to learn more about object oriented programing, and to 
--    develop my own game. 
-- 💞️ I’m looking to collaborate on new video game ideas, webcrawlers, and working with API's  (So I can learn about all of the above) 
+- 🌱 I've had course work in OOP via C++ and Python, and experience with HTML/CSS. Recently I've also had the oppportunity to dive into SQL & Relational design, which along with OOP has been my favorite development work thus far.  
+- 💞️ I’m looking to collaborate on new video game ideas, OOP design projects, webcrawlers, and working with API's  (So I can learn about all of the above) 
 - 📫 How to reach me: bgroonwald@gmail.com
 
 <!---
